@@ -1,0 +1,6 @@
+{"@type":"Armor","name":"Armor","description":"This is a test. A full body.","price":1.54,"qty":0}
+{"@type":"Health","name":"Health","description":"Heals you to 100%","price":2.34,"qty":0,"potentcy":0}
+{"@type":"Weapon","name":"Shield","description":"A long protective barrier","price":3.45,"qty":0}
+{"@type":"Weapon","name":"Sword","description":"A long piece of metal","price":6.89,"qty":0}
+{"@type":"Weapon","name":"Sword","description":"A long piece of metal","price":6.89,"qty":0}
+{"@type":"Health","name":"Health","description":"Heals you to 100%","price":2.34,"qty":0,"potentcy":0}
